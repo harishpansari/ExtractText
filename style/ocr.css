@@ -43,7 +43,6 @@ select {
 .inputfile + label {
   max-width: 80%;
   font-size: 1.25rem;
-  /* 20px */
   font-weight: 700;
   text-overflow: ellipsis;
   white-space: nowrap;
