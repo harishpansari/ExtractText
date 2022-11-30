@@ -1,3 +1,4 @@
+
 $( document ).ready(function() {
 	var inputs = document.querySelectorAll( '.inputfile' );
 	Array.prototype.forEach.call( inputs, function( input )
